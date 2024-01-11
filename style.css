@@ -13,12 +13,12 @@
 }
 /* text css above hero image*/
 .hero_title {
-    margin:10px;
+    margin-top:80px;
     font-size: 4.5rem;
 }
 .hero_desc {
     font-size: 2rem;
-    margin:80px;
+    margin-top:10px;
 }
 .hero-text {
     text-align: center;
